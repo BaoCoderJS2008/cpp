@@ -1,2 +1,3 @@
 # cpp
-Đây là 1 trang chứa source code C++ của Bảo 
+Xin chào :D
+Liên hệ với Bảo qua email baovn1179@gmail.com
