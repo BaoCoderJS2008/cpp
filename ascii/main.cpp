@@ -7,6 +7,8 @@ using namespace std;
 string readFile(ifstream &);
 void print(string);
 
+// Lập trình viên đồng chí Nguyễn Thái Bảo
+
 int main()
 {
     ShowWindow(GetConsoleWindow(), SW_MAXIMIZE);
